@@ -1,5 +1,8 @@
 body{
+  margin: 0;
   padding: 33px;
+  max-width: 600px;
+  margin: auto;
 }
 .title {
 	color: #8E001C;
@@ -19,4 +22,7 @@ a {
 }
 i {
   color: #BC13FE;
+}
+nav {
+  color: #ffffff;
 }
