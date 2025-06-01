@@ -1,0 +1,6 @@
+mkdir test-project && cd test-project
+git init
+echo "Hello World" > index.html
+git add .
+git commit -m "first commit"
+gh repo create test-project --public --source=. --push
