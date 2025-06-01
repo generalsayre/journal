@@ -24,3 +24,10 @@ nav {
   color: #ffffff;
   margin: 3px;
 }
+.about {
+  font-family: 'Georgia', serif;     /* Elegant, readable font */
+  color: #775088;                    /* Dark blue-gray text */
+  font-size: 18px;                   /* Comfortable reading size */
+  line-height: 1.6;                  /* Space between lines */
+  margin-bottom: 1em;                /* Space between paragraphs */
+}
