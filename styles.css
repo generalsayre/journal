@@ -26,9 +26,9 @@ nav {
 }
 .about {
   font-family: 'Orbitron';
-  color: whitesmoke;
+  color: whitesmoke:
   font-size: 33px;
-  line-height: 1.6;
+  line-height: 1.6; 
   margin-bottom: 1em;
   font-weight: bold;
 }
