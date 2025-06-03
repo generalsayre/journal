@@ -42,3 +42,7 @@ h2 {
   font-size: 77px;
   color: #FCEBC4;
 }
+a:hover {
+  color:aliceblue;
+  text-decoration:underline;
+}
