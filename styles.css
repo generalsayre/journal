@@ -33,6 +33,15 @@ nav {
   font-weight: bold;
   background-color: rgb(255, 58, 58);
 }
+.dogma {
+  font-family:'Times New Roman', Times, serif;
+  color: peru;
+  font-size: 33px;
+  line-height: 0.8;
+  margin-bottom: 1em;
+  font-weight:bold;
+  background-color: whitesmoke
+}
 h2 {
   color:#FFDE21;
 }
@@ -43,6 +52,7 @@ h2 {
   color: #FCEBC4;
 }
 a:hover {
-  color:aliceblue;
+  color:rgb(186, 215, 240);
   text-decoration:underline;
+  text-shadow: 0 0 5px #FFDE21;
 }
