@@ -55,4 +55,5 @@ a:hover {
   color:rgb(186, 215, 240);
   text-decoration:underline;
   text-shadow: 0 0 5px #FFDE21;
+  transform: scale(1.1);
 }
